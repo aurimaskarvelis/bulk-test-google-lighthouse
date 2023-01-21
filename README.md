@@ -21,4 +21,4 @@ You can integrate this script with Google Sheets using the Google Sheets API to 
 You can automate the process by using cloud hosting services such as Heroku or DigitalOcean, and schedule regular tests to run automatically.
 
 ## Learn More
-To learn more about how this script was created and how it can help you improve your website's SEO, check out our Medium article: ["Automating SEO Maintenance with Lighthouse and Chrome-Launcher: A Step-by-Step Guide"](https://medium.com/@aurimas.karvelis01/automating-seo-maintenance-with-lighthouse-and-chrome-launcher-a-step-by-step-guide-1c53ac6003a3)
+To learn more about how this script was created and how it can help you improve your website's SEO, check out my Medium article: ["Automating SEO Maintenance with Lighthouse and Chrome-Launcher: A Step-by-Step Guide"](https://medium.com/@aurimas.karvelis01/automating-seo-maintenance-with-lighthouse-and-chrome-launcher-a-step-by-step-guide-1c53ac6003a3)
